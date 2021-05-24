@@ -10,7 +10,7 @@ The navigation bar is located in the top, right portion of the webpage. When you
 
 ## About
 
-The "About" (me) portion of this webpage contains a photo, contact information, job title, a brief description of how I got to this point in my profession, and a list of skills I have acquired through education and work experience.  This portion of the webpage can be accessed by clicking on the "about" tab on the navigation bar in the top, right portion of the webpage. 
+The "About" (me) portion of this webpage contains a photo, contact information, job title, a brief description of how I got to this point in my profession, and a list of skills I have acquired through education and work experience. This portion of the webpage can be accessed by clicking on the "about" tab on the navigation bar in the top, right portion of the webpage. 
 
 ![](assets/img/readMe/aboutMe.png)
 
